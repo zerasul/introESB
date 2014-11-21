@@ -85,9 +85,9 @@
                 <properties>
                     <property name=""/>
                     <property name="inReplyTo"/>
-                    <property name="accessKey" value="146394364-gcoH8dsn7D6jP4VcFtOve45h732AgimUF62kAL3p"/>
+                    <property name="accessKey" value="<acceskey>"/>
                     <property name="status" value="#[header:INBOUND:mymessage]"/>
-                    <property name="accessSecret" value="Bpu4BGvjf95DJxJ63u7CUJRS6CvoL0ZvsTRMsWZenPRA0"/>
+                    <property name="accessSecret" value="<accessecret>"/>
                     <property name="org.mule.tooling.ui.modules.core.widgets.meta.ModeAttribute" value="http://www.mulesoft.org/schema/mule/twitter/update-status"/>
                     <property name="longitude"/>
                     <property name="latitude"/>
